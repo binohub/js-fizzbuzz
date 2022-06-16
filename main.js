@@ -1,7 +1,9 @@
 //! Scrivi un programma che stampi in console i numeri da 1 a 100
-
-// crea un ciclo che si ripete fino ad arrivare a 100 //?come faccio a partire da 1? condizione <= 100 
-    // stampa in console il numero //?come faccio a tenere il conto? stampa index 
+// crea un ciclo da 1 a 100 //? come faccio a partire da 1? condizione <= 100
+for (let index = 1; index <= 100; index++) {
+    // stampa in console il numero //?come faccio a tenere il conto? sfrutta l'index
+    console.log(index);  
+}
 
 
 
